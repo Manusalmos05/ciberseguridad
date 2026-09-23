@@ -21,23 +21,27 @@ tags:
 
 ## 🎯 ¿Para qué sirve?
 
-...
+SIEMPRE PERMITE IDENTIFICAR LOS PUNTOS A PROTEGER DE UNA ORGANIZACION
 
 ---
 
 ## 🔑 Conceptos importantes
 
+DONDE PODEMOS FALLAR?
+PANORAMA DE AMENAZAS
+
 ---
 
 ## 💡 Ejemplo
 
-...
+
+NO TODOS SOMOS VULNERABLES A LAS MISMAS AMENAZAS
 
 ---
 
 ## 🔐 Aplicación en ciberseguridad
 
-...
+IDENTIFICACION DE VULNERABILIDADES
 
 ---
 
