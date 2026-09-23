@@ -1,21 +1,19 @@
 ---
-
-type: concept  
-title: "ciber"  
-date: "2026-09-23"  
-category:  
+type: concept
+title: AMENAZA- ATAQUE- VULNERABILIDAD
+date: 2026-09-23
+category:
 tags:
-
-- cybersecurity
-    
-
+  - cybersecurity
 ---
 
-# 🧠 ciber
+# 🧠 AMENAZA- ATAQUE- VULNERABILIDAD
 
 ## ¿Qué es?
 
-Explicación del concepto con mis propias palabras.
+-AMENAZA: EVENTO QUE PUEDE AFECTAR NEGATIVAMENTE A UN SISTEMA, SUJETO, OPERACIONES Y ACTIVOS CON ACCESOS NO AUTORIZADOS, DESTRUCCION DE INFORMACION, ROBO DE INFORMACION O DIVULGACION DE LA MISMA.
+-ATAQUE:
+-VULNERABILIDAD: 
 
 ---
 
@@ -60,9 +58,9 @@ Explicación del concepto con mis propias palabras.
 
 ## 🔗 Conceptos relacionados
 
-- [[]]
+- ACTORES Y EVENTOS ACCIDENTALES
     
-- [[]]
+- CONTROLES
     
 - [[]]
     
