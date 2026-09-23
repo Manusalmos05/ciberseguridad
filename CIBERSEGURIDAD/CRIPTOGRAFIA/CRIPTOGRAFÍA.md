@@ -35,6 +35,7 @@ texto plano ----> texto cifrado ----> texto plano
  -algoritmo de cifrado
  -algoritmo de descifrado
  -claves de cifrado y descifrado
+ -**Criptosistema asimétrico:** Se corresponde con un criptosistema en el que la clave de cifrado y la clave de descifrado son fundamentalmente diferentes, la clave de cifrado puede ser publica y aun asi ser imposible de descifrar
 ---
 
 ## 💡 Ejemplo
