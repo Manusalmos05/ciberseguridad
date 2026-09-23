@@ -11,13 +11,60 @@
             "id": "c641a18ac5178921",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TEORIA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "TEORIA"
+            }
+          },
+          {
+            "id": "2556e4589c7e6ce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEORIA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TEORIA"
+            }
+          },
+          {
+            "id": "96531ec8b0d48e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INCIDENTES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INCIDENTES"
+            }
+          },
+          {
+            "id": "7baa46fed11bc967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROYECTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROYECTO"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,8 +240,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a3742a3145899e7",
+  "active": "7baa46fed11bc967",
   "lastOpenFiles": [
+    "CIBERSEGURIDAD/FUNDAMENTOS/Sin título.md",
+    "PROYECTO.md",
+    "INCIDENTES.md",
+    "TEORIA.md",
+    "LABORATORIO.md",
+    "Plantillas",
     "CIBERSEGURIDAD/FUNDAMENTOS/PILARES DE CIBERSEGURIDAD.md",
     "CIBERSEGURIDAD/FUNDAMENTOS/FUNDAMENTOS.md",
     "CIBERSEGURIDAD/FUNDAMENTOS",
