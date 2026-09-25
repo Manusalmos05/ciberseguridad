@@ -1,14 +1,10 @@
 ---
-
-type: concept  
-title: "Ataques a Criptosistemas"  
-date: "2026-09-25"  
-category:  
+type: concept
+title: Ataques a Criptosistemas
+date: 2026-09-25
+category:
 tags:
-
-- cybersecurity
-    
-
+  - cybersecurity
 ---
 
 # 🧠 Ataques a Criptosistemas
@@ -31,12 +27,13 @@ Podemos preveer los puntos débiles y reforzar la seguridad
 -Known-plaintext attacks: conoce algoritmo de cifrado y algunos pares de texto plano y cifrado
 -Chosen-plaintext attacks: conoce algoritmo de cifrado y algunos pares de texto plano y cifrado, de los cuales ha podido seleccionar texto plano.
 -Chosen-ciphertext attacks: conoce algoritmo de cifrado y algunos pares de texto plano y cifrado, de los cuales ha podido seleccionar texto plano y/o cifrado.
+## Ataques:
+-Fuerza Bruta (Ciphertext-only attack): El atacante tiene texto cifrado, selecciona una clave del espacio de claves, intenta descifrarlo hasta que el y texto tenga sentido, cambiando una y otra vez de claves.
 
 ---
-
 ## 💡 Ejemplo
 
-...
+Obtener la clave de forma no legitima
 
 ---
 
@@ -50,7 +47,7 @@ interceptación de mensajes
 
 Divulgación de contenido.
 cambio de mensaje.
-
+Romper el sistema criptográfico
 ---
 
 ## 🧪 ¿Puedo practicarlo?
@@ -66,7 +63,7 @@ cambio de mensaje.
 
 ## 🔗 Conceptos relacionados
 
-- [[]]
+- [[Criptosistemas]]
     
 - [[]]
     
