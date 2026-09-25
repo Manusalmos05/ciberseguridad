@@ -21,7 +21,7 @@ Están expuestos a ataques en los cuales un los problemas de seguridad suelen se
 
 ## 🎯 ¿Para qué sirve?
 
-Podemos preveer los puntos debiles y reforzar la seguridad
+Podemos preveer los puntos débiles y reforzar la seguridad
 
 ---
 
