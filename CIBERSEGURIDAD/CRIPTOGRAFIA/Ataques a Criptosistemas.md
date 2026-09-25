@@ -42,13 +42,14 @@ Podemos preveer los puntos débiles y reforzar la seguridad
 
 ## 🔐 Aplicación en ciberseguridad
 
-...
+interceptación de mensajes
 
 ---
 
 ## ⚠️ Riesgos / vulnerabilidades
 
-...
+Divulgación de contenido.
+cambio de mensaje.
 
 ---
 
