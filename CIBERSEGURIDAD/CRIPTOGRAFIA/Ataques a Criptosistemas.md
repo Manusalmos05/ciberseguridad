@@ -29,6 +29,9 @@ Podemos preveer los puntos débiles y reforzar la seguridad
 -Chosen-ciphertext attacks: conoce algoritmo de cifrado y algunos pares de texto plano y cifrado, de los cuales ha podido seleccionar texto plano y/o cifrado.
 ## Ataques:
 -Fuerza Bruta (Ciphertext-only attack): El atacante tiene texto cifrado, selecciona una clave del espacio de claves, intenta descifrarlo hasta que el y texto tenga sentido, cambiando una y otra vez de claves.
+-Time memmory trade- off: compara pares de texto plano con texto cifrado que se usan frecuentemente y su respectiva clave en una tabla, luego intercepta un texto cifrado que supone reconconoce en la tabla e intenta con esa clave
+-Primitive-specifc: 
+-Side-channel: No se realizan sobre el sistema sino sobre su implementación. Como medir los tiempos o recursos consumidos y con ese dato determinar la clave
 
 ---
 ## 💡 Ejemplo
@@ -73,6 +76,8 @@ Romper el sistema criptográfico
 ---
 
 ## ❓ Preguntas que todavía tengo
+-Primitive-specifc: 
+-Side-channel
 
 ---
 
