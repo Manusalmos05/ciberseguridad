@@ -1,2 +1,6 @@
-.obsidian/*
-!.obsidian/plugins/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*~
+\#*\#
