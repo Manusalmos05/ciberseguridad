@@ -1,4 +1,4 @@
-
+from langdetect import detect
 import string
 ALFABETO=string.ascii_lowercase
 
@@ -16,12 +16,22 @@ def algoritmo_des(texto_cifrado, clave_des):
             texto_plano+=ALFABETO[indice_letra_des]
     return texto_plano
 
+def fuerza_bruta(texto_cifrado):
+
+    espacio_claves=range(len(ALFABETO))
+    for clave in espacio_claves:
+        texto_plano=algoritmo_des(texto_cifrado, clave)
+        lenguaje=detect(texto_plano)
+        if lenguaje=="es":
+            print(f"el texto descifrado es: {texto_plano}")
+            print (f" la clave es: {clave}")
+            return
+
 
 if __name__ =="__main__":
     
     texto_cifrado=input("introduce el texto cifrado: ").lower()
-    clave_des=int(input("introduce la clave de descifrado: "))
+    
 
 
-    texto_plano=algoritmo_des(texto_cifrado, clave_des)
-    print(texto_plano)
+    fuerza_bruta(texto_cifrado)
