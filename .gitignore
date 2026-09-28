@@ -1,14 +1,15 @@
-<<<<<<< HEAD
+
 .venv/
 venv/
 __pycache__/
 *.pyc
 *~
 \#*\#
-=======
 .obsidian/*
 !.obsidian/plugins/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
 .env
 venv
->>>>>>> a86e3dd2e1daa3b5b062394b961d88c0c0998713
+
