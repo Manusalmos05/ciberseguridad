@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Ataques a Criptosistemas"
             }
+          },
+          {
+            "id": "74662dbf51e8a4a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIBERSEGURIDAD/CRIPTOGRAFIA/Cifrado simple por sustitución.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cifrado simple por sustitución"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,10 +216,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2c0f743ea1918b98",
+  "active": "74662dbf51e8a4a7",
   "lastOpenFiles": [
+    "CIBERSEGURIDAD/CRIPTOGRAFIA/Ataques a Criptosistemas.md",
+    "CIBERSEGURIDAD/CRIPTOGRAFIA/Cifrado simple por sustitución.md",
     "CIBERSEGURIDAD/CRIPTOGRAFIA/cifrado_cesar_fb.py",
-    "CIBERSEGURIDAD/CRIPTOGRAFIA/Criptosistemas.md",
-    "CIBERSEGURIDAD/CRIPTOGRAFIA/Ataques a Criptosistemas.md"
+    "CIBERSEGURIDAD/CRIPTOGRAFIA/Criptosistemas.md"
   ]
 }
