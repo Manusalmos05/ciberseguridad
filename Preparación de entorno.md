@@ -64,13 +64,14 @@ Este es el objetivo final al que se quiere llegar pero este es solo el primer pa
 ## Paso 1 —
 
 La configuración del DHCP en VMware Linux, es modificando el fichero dhcp.conf de cada interfaz, VMware permite esta modificación en la interfaz grafica con los permisos de administrador del sistema.
-![[Captura de pantalla 2026-10-08 190122.png]]
+<img width="926" height="804" alt="image" src="https://github.com/user-attachments/assets/b2a56bf6-be9b-4fe0-acca-c396df373314" />
+
 
 ## Paso 2 —
 
 Crear las maquinas virtuales, en mi caso un kali que hara la explotación y una Metasploitable 2 descargada del siguiente link: https://information.rapid7.com/metasploitable-download.html
 después de extraer su contenido y abrirla con el software de virtualización, procedo a editar los adaptadores de red, para que estén en la misma red.
-![[Captura de pantalla 2026-10-08 190639.png]]
+
 ## Paso 3 —
 
 Descripción:
@@ -79,10 +80,12 @@ He renombrado el host de la kali por comodidad del tutor que lo revisará. usand
 
 y también editando el archivo /etc/hosts con el comando:
 ==*sudo nano /etc/hosts*==
+<img width="958" height="441" alt="image" src="https://github.com/user-attachments/assets/6abe8f8b-cc67-47db-b27f-f41f42052846" />
 
-![[Captura de pantalla 2026-10-08 180828.png]]
+<img width="931" height="409" alt="image" src="https://github.com/user-attachments/assets/790eeee6-b0f4-47ef-987e-d3ecab5ae37c" />
 
-![[Captura de pantalla 2026-10-08 180937.png]]
+
+
 ---
 
 # 🔧 Implementación
@@ -92,7 +95,8 @@ y también editando el archivo /etc/hosts con el comando:
 Consulte las IPs de ambas maquinas:
 -En Kali: *==ip a==*
 -en Metasploitable2: *==ifconfig==*
-![[Pasted image 20261011191622.png]]
+<img width="953" height="625" alt="image" src="https://github.com/user-attachments/assets/50140475-90d8-4d2b-8f5a-1aa5b159565b" />
+
 ---
 
 # 🔍 Pruebas
@@ -115,7 +119,8 @@ ejecutar el comando ping desde kali con la ip 10.1.24.128 correspondiente a la m
 
 📸 Evidencia:
 
-![[Captura de pantalla 2026-10-08 185016.png]]
+<img width="768" height="576" alt="conexion establecida" src="https://github.com/user-attachments/assets/197a6b63-ca28-4692-9e71-0584ec08f0a4" />
+
 
 
 ---
