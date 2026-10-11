@@ -56,7 +56,9 @@ Antes de comenzar, necesito comprender:
 | Recursos          |             |
 
 ### Arquitectura
-Este es el objetivo final al que se quiere llegar pero este es solo el primer paso.![[Pasted image 20261011185412.png]]
+Este es el objetivo final al que se quiere llegar pero este es solo el primer paso.
+<img width="802" height="547" alt="Captura de pantalla 2026-10-11 185350" src="https://github.com/user-attachments/assets/639f63e4-1031-46c0-ac49-039cd208e9eb" />
+
 ---
 
 # ⚙️ Preparación
