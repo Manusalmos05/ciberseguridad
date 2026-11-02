@@ -1,19 +1,14 @@
 ---
-
-type: lab  
-title: "Sin título"  
-date: "2026-10-11"  
-status: in-progress  
-difficulty:  
-category:  
-tools:  
+type: lab
+title: Sin título
+date: 2026-10-11
+status: FINISH
+difficulty:
+category:
+tools:
 tags:
-
-- cybersecurity
-    
-- lab
-    
-
+  - cybersecurity
+  - lab
 ---
 
 # 🛡️ Preparación de entorno
