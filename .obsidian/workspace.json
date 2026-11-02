@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIBERSEGURIDAD/LABORATORIOS/LazySysAdmin/METODOLOGIA/Metodología de pruebas de penetración — LazySysAdmin.md",
+                "file": "CIBERSEGURIDAD/LABORATORIOS/LazySysAdmin/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metodología de pruebas de penetración — LazySysAdmin"
+              "title": "README"
             }
           }
         ],
@@ -226,10 +226,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c3c1e1107254116",
+  "active": "5ec3b29e5ce51b3d",
   "lastOpenFiles": [
-    "CIBERSEGURIDAD/LABORATORIOS/LazySysAdmin/README.md",
     "CIBERSEGURIDAD/LABORATORIOS/LazySysAdmin/METODOLOGIA/Metodología de pruebas de penetración — LazySysAdmin.md",
+    "CIBERSEGURIDAD/LABORATORIOS/LazySysAdmin/REPORTE/reporte_LazySyAdmin.pdf",
+    "CIBERSEGURIDAD/LABORATORIOS/LazySysAdmin/REPORTE/reporte_.pdf",
+    "CIBERSEGURIDAD/LABORATORIOS/LazySysAdmin/README.md",
     "CIBERSEGURIDAD/LABORATORIOS/LazySysAdmin/METODOLOGIA",
     "CIBERSEGURIDAD/LABORATORIOS/Preparación de entorno.md",
     "CIBERSEGURIDAD/LABORATORIOS/LazySysAdmin",
@@ -251,8 +253,6 @@
     "CIBERSEGURIDAD/CRIPTOGRAFIA/Rompiendo_cifrado_simple_sustitucion/Sin confirmar 259071.crdownload",
     "CIBERSEGURIDAD/CRIPTOGRAFIA/Rompiendo_cifrado_simple_sustitucion/spanish_trigrams.txt",
     "CIBERSEGURIDAD/CRIPTOGRAFIA/Rompiendo_cifrado_simple_sustitucion/Sin confirmar 934459.crdownload",
-    "CIBERSEGURIDAD/CRIPTOGRAFIA/Rompiendo_cifrado_simple_sustitucion/spanish_bigrams.txt",
-    "CIBERSEGURIDAD/CRIPTOGRAFIA/Rompiendo_cifrado_simple_sustitucion/Sin confirmar 298152.crdownload",
     "CIBERSEGURIDAD/CRIPTOGRAFIA/Ataques a Criptosistemas.md",
     "CIBERSEGURIDAD/CRIPTOGRAFIA/Criptosistemas.md"
   ]
